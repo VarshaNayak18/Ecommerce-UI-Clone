@@ -6,6 +6,12 @@
 
 /* Navbar */
 
+.logo-text{
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+}
+
 .navbar{
     height: 60px;
     background-color: #0f1111;
@@ -172,6 +178,10 @@ span{
     background-color: #e2e7e6;
 }
 
+.box:hover{
+    transform: translateY(-5px);
+}
+
 .box{
     /* border: 2px solid black; */
     width: 23%;
@@ -179,6 +189,7 @@ span{
     background-color: white;
     padding: 20px 0px 15px;
     margin: 15px;
+    transition: transform 0.2s ease;
 }
 
 .box-img{
