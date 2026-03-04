@@ -1,4 +1,4 @@
-# 🛒 Amazon Clone
+# 🛒 E-Commerce Website Clone
 
 ## 🌐 Live Demo
 
