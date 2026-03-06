@@ -1,9 +1,5 @@
 # 🛒 E-Commerce Website Clone
 
-## 🌐 Live Demo
-
-🔗 https://varshanayak18.github.io/amazon-clone/
-
 ## 📌 Overview
 
 This project is a responsive clone of the Amazon homepage built using HTML and CSS. It replicates the core layout structure including the navigation bar, hero section, product grid, and footer.
